@@ -15,5 +15,7 @@ Github doesn't support a lot of features of notebooks, such as interactive Plotl
 ## Dashboard
 
 1. <a href="https://public.tableau.com/app/profile/richard.oloyede/viz/EnglishPemierLeague2017-2021Dashboard/Dashboard4">EPL Interactive Dashboard</a>
+<br>
 2.<a href="https://public.tableau.com/app/profile/richard.oloyede/viz/EnglishPremierLeague2017-2021EDAInsightsEPL/Dashboard2?publish=yes">English Premier League Insights</a>
-3.https://github.com/richieskyler/Web-Scrapping-of-English-Premier-League-Data-2017-2021-
+<br>
+3. <a href="https://github.com/richieskyler/Web-Scrapping-of-English-Premier-League-Data-2017-2021-">Web Scrapping Project</a>
